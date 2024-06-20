@@ -1,6 +1,4 @@
-## Juho Välimäki
-
-Cracked machine learning engineering
+Machine learning
 
 <!--
 **vlimki/vlimki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
